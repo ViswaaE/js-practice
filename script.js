@@ -45,7 +45,18 @@ let Students = 30;
 // document.getElementById("students").textContent =`the total number of students are ${Students}`
 
 
-// How to accept user input
 
+// How to accept user input
 // 1. EASY WAY = window prompt
 // 2. PROFESSIONAL WAY = HTML textbox
+
+// let username = window.prompt("What is your name")
+// document.getElementById("window").textContent =`hii welcome ${username}`
+
+
+// let username;
+// document.getElementById("button").onclick = function(){
+//   username =  document.getElementById("name").value;
+//   document.getElementById("myh1").textContent =`hii welcome ${username}`;
+// }
+
