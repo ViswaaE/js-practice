@@ -1,0 +1,9 @@
+*{
+    text-align: center;
+}
+.btn{
+    padding: 10px;
+    background-color: #7070f1;
+    color: aliceblue;
+    cursor: pointer;
+}
