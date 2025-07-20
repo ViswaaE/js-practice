@@ -5,11 +5,9 @@
 // window.alert("javascript practice");
 // window.alert("welcome");
 
-
-
 // document.getElementById("h1").textContent = `hello`;
 // document.getElementById("p").textContent = `paragraph tag`;
-
+// -----------------------------------------------------------------------------------
 
 // variables practice
 // let fullname = "viswaa";
@@ -19,11 +17,11 @@
 // document.getElementById("name").textContent = `my name is ${fullname}`;
 // document.getElementById("age").textContent = `I'm ${fullname} years old`;
 // document.getElementById("student").textContent = `I'm a enrolled as student : ${isStudent}`;
-
+// ------------------------------------------------------------------------------------------------
 
 //operators practice
 
-let Students = 30;
+// let Students = 30;
 // Students = Students + 1;
 // Students = Students - 1;
 // Students = Students * 10;
@@ -44,7 +42,7 @@ let Students = 30;
 
 // document.getElementById("students").textContent =`the total number of students are ${Students}`
 
-
+// --------------------------------------------------------------------------------------------------------
 
 // How to accept user input
 // 1. EASY WAY = window prompt
@@ -60,3 +58,34 @@ let Students = 30;
 //   document.getElementById("myh1").textContent =`hii welcome ${username}`;
 // }
 
+// ------------------------------------------------------------------------------------------------
+
+// Type conversion = change the datatype of a value to another
+//                                 (strings, numbers, booleans)
+
+// let age =  window.prompt("how old are you")
+// age = Number(age);
+// age+= 1;
+// console.log(age);
+
+
+// let x = "pizza";
+// let y = "pizza";
+// let z = "pizza";
+// let x = "12";
+// let y = "12";
+// let z = "12";
+// let x = "";
+// let y = "";
+// let z = "";
+// let x;
+// let y;
+// let z;
+
+// x = Number(x);
+// y = String(y);
+// z = Boolean(z);
+
+// console.log(x, typeof x);
+// console.log(y, typeof y);
+// console.log(z, typeof z);
